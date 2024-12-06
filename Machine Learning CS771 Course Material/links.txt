@@ -1,0 +1,15 @@
+Here is some very basic code for LwP and KNN (the two methods we have seen so far) in Python and you can run it directly in Google colab:
+
+LwP: https://colab.research.google.com/drive/10o6CyRwA0du9V_rwyCPZB4vqNMVjBt5s?usp=sharing
+
+KNN: https://colab.research.google.com/drive/1PDnYU_iS-CRasiPYAkWvY0k5UVkX2Rmv?usp=sharing
+
+Although you can find the implementation of these methods in various ML libraries, the purpose of sharing the code is to show how you can implement these methods on your own.
+
+Also, these codes make use of Python libraries such as NumPy which provide routines to do array/matrix operations as well as many other necessary functions. Here are a couple of tutorials that you can use as a refresher for Python and NumPy:
+
+https://web.cse.iitk.ac.in/users/piyush/courses/ml-autumn23/slides/python_tutorial.ipynb 
+
+https://web.cse.iitk.ac.in/users/piyush/courses/ml-autumn23/slides/numpy_tutorial.ipynb 
+
+ have uploaded the python notebook from today's tutorial session on Google colab: https://colab.research.google.com/drive/1qmN_40NUdp6V5CQik_SRfcQ9H9IB1oZr
